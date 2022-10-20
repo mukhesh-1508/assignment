@@ -1,0 +1,41 @@
+.body{
+    width: 500px;
+    margin-top: 30px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding:70px;
+    background-repeat: no-repeat;
+    margin-left: -10px;
+    background-size: cover;
+}
+.images{
+    position: relative;
+    left: 25%;
+    top: -45px;
+}
+i{
+    padding: 30px;
+    background-color: white;
+    border-radius: 190px;
+}
+button{
+    margin-left: 140px;
+}
+.form
+{
+    background-image: linear-gradient(to bottom left,skyblue,blue);
+   
+    width: 580px;
+   padding:40px;
+   margin-top:50px;
+   margin-left: 500px;
+}
+.container{
+    margin-top: 90px;
+}
+.card1{
+    margin: 45px;
+}
+.c{
+    margin-left: 60px;
+}
